@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```python
 #Program to circulate N values.
-#Developed by: Kavya.K
-#RegisterNumber:22008613
+#Developed by: Mohanraj.S
+#RegisterNumber:212221230065
 def circulate():
     circul = l[n:]+l[:n]
     print('After circulating the values are:',circul)
